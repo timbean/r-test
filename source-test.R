@@ -3,3 +3,8 @@ squaresquare <- function(x){
   newval2 <- newval^2
   return(newval2)
 }
+
+doubledouble <- function(x){
+  newval <- c(x, x)
+  return(newval)
+}
