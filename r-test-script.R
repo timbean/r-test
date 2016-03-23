@@ -20,3 +20,7 @@ print("this is how a branch works")
 # in vim, type your explanation of changes, then 'esc', ':x'
 # may also need to "git commit"
 # may also need to commit changes from RStudio
+
+print(x)
+print(y)
+
