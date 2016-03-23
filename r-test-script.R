@@ -24,3 +24,5 @@ print("this is how a branch works")
 print(x)
 print(y)
 
+doubledouble(x)
+squaresquare(x)
