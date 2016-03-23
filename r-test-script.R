@@ -14,3 +14,9 @@ doubledouble(2)
 # Now RStudio is working on the test2 branch:
 
 print("this is how a branch works")
+
+# once you've made changes, go back to the shell and type:
+# 'git merge --no-ff 'name of the branch'
+# in vim, type your explanation of changes, then 'esc', ':x'
+# may also need to "git commit"
+# may also need to commit changes from RStudio
