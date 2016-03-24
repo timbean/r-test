@@ -34,3 +34,5 @@ x + y
 # here's a test of pulling changes from master before pushing:
 
 x * y
+
+# here's a test on the server side of pull/push requests
