@@ -37,5 +37,6 @@ x * y
 
 
 # second test; and a second test on the client side
+# third test on client side
 
 # here's a test on the server side of pull/push requests; and a second test of a comment made on server side
