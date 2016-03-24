@@ -31,4 +31,6 @@ squaresquare(x)
 
 x + y
 
-# here's a master-side edit to test changes for pulling/pushing
+# here's a test of pulling changes from master before pushing:
+
+x * y
