@@ -36,6 +36,6 @@ x + y
 x * y
 
 
-# second test
+# second test; and a second test on the client side
 
 # here's a test on the server side of pull/push requests
