@@ -35,8 +35,3 @@ x + y
 
 x * y
 
-
-<<<<<<< HEAD
-
->>>>>>> f9420efc7ebcb3ac24bebc0da76af3d4016bf5df
-
